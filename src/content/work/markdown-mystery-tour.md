@@ -1,35 +1,31 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+title: Astronomy
+publishDate: 2024-02-01
+img: /assets/astronomy.png
+img_alt: Homepage of a website about astronomy
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  I have created a showcase website about astronomy, showcasing the various phenomena that can occur in space.
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - HTML
+  - CSS
 ---
 
-## Level-two heading
+## A personnal project
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> For my astro Lovers <3
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+As an astronomy enthusiast, I felt compelled to create something dedicated to it. Therefore, I decided to develop a showcase website that highlights the beauty of astronomy. From nebulas to stars, planets to black holes, this project aims to illustrate the wonders of space. Join me in exploring the fascinating phenomena that occur beyond our atmosphere.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
 
-### Level-three heading
+### Video Showcase
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+For this project, I've curated a collection of short videos showcasing the breathtaking beauty of astronomy. Each video captures the mesmerizing phenomena that unfold in the vast expanse of space.
 
-### Level-three heading
+### Github
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+You can find it <a href="https://github.com/xavmllt/astronomy_project" target="_blank">here</a>
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+#### What aspects can I improve?
 
-#### Level-four heading
-
-- We noted this
-- And also this other point
+- Website is not online yet
+-  I still need to add pages
