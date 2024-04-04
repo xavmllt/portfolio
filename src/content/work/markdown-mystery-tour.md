@@ -27,5 +27,4 @@ You can find it <a href="https://github.com/xavmllt/astronomy_project" target="_
 
 #### What aspects can I improve?
 
-- Website is not online yet
 -  I still need to add pages
