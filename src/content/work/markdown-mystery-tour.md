@@ -1,5 +1,5 @@
 ---
-title: Astronomy
+title: ASTRONOMY
 publishDate: 2024-02-01
 img: /assets/astronomy.png
 img_alt: Homepage of a website about astronomy
