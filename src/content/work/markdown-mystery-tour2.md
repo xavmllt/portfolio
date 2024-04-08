@@ -27,7 +27,7 @@ With a simple JavaScript script, it calculates your BMI.
 
 ### Github
 
-I didn't create a ripository yet
+You can find it <a href="https://github.com/xavmllt/BodyMassIndex" target="_blank">here</a>
 
 #### What aspects can I improve?
 
