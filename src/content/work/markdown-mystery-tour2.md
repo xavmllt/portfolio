@@ -31,4 +31,4 @@ You can find it <a href="https://github.com/xavmllt/BodyMassIndex" target="_blan
 
 #### What aspects can I improve?
 
-- Change the style.
+- Add a form and a database 
